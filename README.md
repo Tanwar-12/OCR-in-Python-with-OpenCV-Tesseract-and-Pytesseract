@@ -1,8 +1,5 @@
 # OCR in Python with-OpenCV Tesseract and Pytesseract
 
-
-
-
 ### Preprocessing of images using OpenCV
 
 *Basic functions for different preprocessing methods*
@@ -58,3 +55,21 @@
 - whitelist characters
 - blacklist characters
 - work with multiple language
+
+![image](https://github.com/Tanwar-12/OCR-in-Python-with-OpenCV-Tesseract-and-Pytesseract/assets/110081008/69b7f311-82b4-47a3-baf6-423336f04d35)
+
+![image](https://github.com/Tanwar-12/OCR-in-Python-with-OpenCV-Tesseract-and-Pytesseract/assets/110081008/793687d6-178c-4558-83fe-d301d2321786)
+
+![image](https://github.com/Tanwar-12/OCR-in-Python-with-OpenCV-Tesseract-and-Pytesseract/assets/110081008/df664595-2d68-4eed-99e5-2ce72adce45f)
+
+![image](https://github.com/Tanwar-12/OCR-in-Python-with-OpenCV-Tesseract-and-Pytesseract/assets/110081008/9139966e-c12e-4476-9045-236c71fd8b30)
+
+![image](https://github.com/Tanwar-12/OCR-in-Python-with-OpenCV-Tesseract-and-Pytesseract/assets/110081008/39c5a697-3bed-40df-a478-8fc6318c6c12)
+
+![image](https://github.com/Tanwar-12/OCR-in-Python-with-OpenCV-Tesseract-and-Pytesseract/assets/110081008/7dbfecaa-a5b3-4553-8b06-045c89c6ea47)
+
+
+
+
+
+
